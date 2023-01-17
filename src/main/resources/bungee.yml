@@ -1,0 +1,4 @@
+name: No Join
+version: '${project.version}'
+main: com.arr4nn.nojoin.NoJoin
+
